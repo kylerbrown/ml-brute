@@ -1,6 +1,6 @@
 # ml-brute
 
-ML pipeline for parameter tuning of xgboost.
+ML pipeline for parameter tuning of xgboost.  (Requires xgboost python package: https://github.com/dmlc/xgboost/tree/master/python-package)
 
 To use, follow these steps:
 
